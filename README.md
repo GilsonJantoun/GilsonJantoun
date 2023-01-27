@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GilsonJantoun
-- 👀 I’m interested in AVR firmware dev and learning new programming techniques. 
+- 👀 I’m interested in embedded firmware development and experimenting with new microcontrollers. 
 - 📫 Reach out at jantoun@gilsonco.com, or jacob.antoun@gmail.com
 
 <!---
